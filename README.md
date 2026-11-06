@@ -1,8 +1,6 @@
 # Amit Kumar
 
-**Senior Machine Learning Engineer @ Twilio** · Applied ML | Distributed Systems
-
-[LinkedIn](https://www.linkedin.com/in/amitmac/)
+**Senior Machine Learning Engineer @ Twilio** · Applied ML | Distributed Systems ( [LinkedIn](https://www.linkedin.com/in/amitmac/) )
 
 I'm a machine learning engineer with **12+ years of experience** building production ML, large-scale data pipelines, and cloud-native backend systems. My work spans the full lifecycle - from defining problems and developing models to architecting distributed infrastructure and deploying reliable services. I enjoy solving problems where **machine learning, systems engineering, and product thinking** meet.
 
