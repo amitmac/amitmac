@@ -1,24 +1,21 @@
-### Amit Kumar
+# Amit Kumar
 
-#### SUMMARY
-* Enterprising professional with 6 years of total experience and 4 years of experience in building Machine
-Learning and NLP solutions  
-* Presently associated with Wissen Technology as Principal Software Engineer  
-* Ranked 5th in Microsoft AI Challenge India 2018  
-* Co-founded a startup, Marax AI  
-* Extensive project management experience, team building, leadership, proficient in gathering requirements,
-implementing and deploying solutions  
-* Experienced in distributed data processing and performance optimization  
+**Senior Machine Learning Engineer @ Twilio** · Applied ML | Distributed Systems
 
-#### SKILLS
-* **Natural Language Processing** - NER, POS Tagging, Dependency Parsing, RNN/LSTM, Semantic Search, Question
-Answering, NLTK, Stanford CoreNLP, TF-IDF
-* **Computer Vision** - Image Processing, Image Classification, CNN, Transfer Learning
-* **Language and Frameworks** - Python, TensorFlow, Keras, Flask, Scikit-Learn
-* **Other (Programming Paradigms, Database, DevOps)** - Google Cloud, Docker, Kubernetes, Jenkins, PostgreSQL,
-Git, Nginx, OOPS, Multiprocessing
+[LinkedIn](https://www.linkedin.com/in/amitmac/)
 
-<!---
-amitmac/amitmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a machine learning engineer with **12+ years of experience** building production ML, large-scale data pipelines, and cloud-native backend systems. My work spans the full lifecycle—from defining problems and developing models to architecting distributed infrastructure and deploying reliable services. I enjoy solving problems where **machine learning, systems engineering, and product thinking** meet.
+
+### Skills
+
+- **Applied ML & AI:** Fraud detection, clustering, risk analytics, LLMs, RAG, embeddings, PyTorch, scikit-learn
+- **Data & Distributed Systems:** Python, SQL, PySpark, Apache Spark, Kafka, Airflow, batch/stream processing
+- **Backend & Cloud:** AWS (EMR, ECS, S3), Docker, REST APIs, MongoDB, PostgreSQL, Redis, Qdrant
+
+### Highlights
+
+- **Fraud detection at scale:** Built ML systems operating at **100M+ calls/day** with **>95% precision**.
+- **Distributed processing:** Engineered Spark pipelines processing **5B+ records/day**.
+- **Applied AI:** Built LLM-powered research workflows combining retrieval, automated data ingestion, clustering, and financial risk analytics.
+- **Recognition:** Ranked **5th** in Microsoft AI Challenge India, 2018.
+
